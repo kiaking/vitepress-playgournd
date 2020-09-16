@@ -2,9 +2,13 @@
   "private": true,
   "scripts": {
     "docs": "vitepress dev docs",
-    "docs:build": "vitepress build docs"
+    "build": "vitepress build docs",
+    "up": "node server.js"
   },
   "dependencies": {
     "vitepress": "^0.5.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
   }
 }
