@@ -6,7 +6,7 @@
     "up": "node server.js"
   },
   "dependencies": {
-    "vitepress": "/Users/kia/Code/vitepress/vitepress-v0.5.0.tgz"
+    "vitepress": "^0.6.0"
   },
   "devDependencies": {
     "express": "^4.17.1"
