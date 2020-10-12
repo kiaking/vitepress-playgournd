@@ -47,6 +47,9 @@ module.exports = {
     docsDir: 'docs',
     locales: {
       '/': {
+        label: 'English',
+        selectText: 'Languages',
+        editLinkText: 'Edit this page on GitHub',
         nav: [
           { text: 'Guide', link: '/guide/' },
           { text: 'API Reference', link: '/api/' },
@@ -85,6 +88,9 @@ module.exports = {
         ]
       },
       '/zh/': {
+        label: '简体中文',
+        selectText: '选择语言',
+        editLinkText: '在 GitHub 上编辑此页',
         nav: [
           { text: '指南', link: '/zh/guide/' },
           { text: 'API 参考', link: '/zh/api/' },
@@ -123,6 +129,9 @@ module.exports = {
         ]
       },
       '/ja/': {
+        label: '日本語',
+        selectText: '言語',
+        editLinkText: 'GitHub 上でこのページを編集する',
         nav: [
           { text: 'ガイド', link: '/ja/guide/' },
           { text: 'API リファレンス', link: '/ja/api/' },
@@ -161,6 +170,9 @@ module.exports = {
         ]
       },
       '/ru/': {
+        label: 'Русский',
+        selectText: 'Переводы',
+        editLinkText: 'Изменить эту страницу на GitHub',
         nav: [
           { text: 'Руководство', link: '/ru/guide/' },
           { text: 'Справочник API', link: '/ru/api/' },
@@ -199,6 +211,9 @@ module.exports = {
         ]
       },
       '/kr/': {
+        label: '한국어',
+        selectText: '언어 변경',
+        editLinkText: 'GitHub에서 이 페이지 수정',
         nav: [
           { text: '가이드', link: '/kr/guide/' },
           { text: 'API 레퍼런스', link: '/kr/api/' },
@@ -237,6 +252,9 @@ module.exports = {
         ]
       },
       '/ptbr/': {
+        label: 'Português',
+        selectText: 'Idiomas',
+        editLinkText: 'Edite esta página no GitHub',
         nav: [
           { text: 'Guia', link: '/ptbr/guide/' },
           { text: 'Referência da API', link: '/ptbr/api/' },
@@ -275,6 +293,9 @@ module.exports = {
         ]
       },
       '/fr/': {
+        label: 'Français',
+        selectText: 'Langues',
+        editLinkText: 'Éditer la page sur GitHub',
         nav: [
           { text: 'Guide', link: '/fr/guide/' },
           { text: 'API', link: '/fr/api/' },
