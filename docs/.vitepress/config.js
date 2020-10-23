@@ -1,4 +1,6 @@
 module.exports = {
+  base: '/vuex/',
+
   lang: 'en-US',
   title: 'Vuex',
   description: 'Centralized State Management for Vue.js',
