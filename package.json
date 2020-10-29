@@ -1,9 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "docs": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "up": "node server.js"
+    "serve": "vitepress dev docs",
+    "up": "node server.js",
+    "build": "vitepress build docs"
   },
   "dependencies": {
     "vitepress": "^0.6.0"
