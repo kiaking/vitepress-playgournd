@@ -6,7 +6,7 @@
     "build": "vitepress build docs"
   },
   "dependencies": {
-    "vitepress": "^0.6.0"
+    "vitepress": "^0.7.0"
   },
   "devDependencies": {
     "express": "^4.17.1"
