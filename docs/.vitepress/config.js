@@ -25,6 +25,9 @@ module.exports = {
   themeConfig: {
     repo: 'vuejs/vuex',
     docsDir: 'docs',
+    docsBranch: 'dev',
+    editLinks: true,
+
     locales: {
       '/': {
         label: 'English',
