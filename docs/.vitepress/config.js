@@ -13,6 +13,8 @@ module.exports = {
   themeConfig: {
     repo: 'vuejs/vuex',
     docsDir: 'docs',
+    docsBranch: 'dev',
+    editLinks: true,
     editLinkText: 'Edit this page on GitHub',
 
     nav: [
