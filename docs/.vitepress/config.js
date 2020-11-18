@@ -1,6 +1,4 @@
 module.exports = {
-  base: '/vuex/',
-
   locales: {
     '/': {
       lang: 'en-US',
